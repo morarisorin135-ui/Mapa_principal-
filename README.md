@@ -1,6 +1,6 @@
 # Mapa_principal-
 Laborator la pl. apl. desck.
-# Proiect Laborator
+## Prototip Figma
 ##  Descriere
 Acest repository a fost creat pentru lucrările de laborator, oferind acces tuturor colegilor și profesoarei, astfel încât progresul să poată fi urmărit în timp real. Proiectul servește ca spațiu comun de lucru și documentare.
 ##  Scopul lucrării
